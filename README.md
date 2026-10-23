@@ -22,45 +22,34 @@ Data preparation and analysis were conducted using Microsoft Excel.
 
 <img width="454" height="347" alt="Screenshot 2026-10-20 040004" src="https://github.com/user-attachments/assets/0d608fbe-0cbf-477e-a9b4-26b6b3aa5885" />
 
-### Key Findings and Insights
+## Key Findings and Insights
 
  #### Overall Sales Performance
 
-- Total Quantity went from 724 in 2023 to 899 in 2024, which is 24% increase
+- Total Quantity went from 724 in 2023 to 899 in 2024, Which is 24% increase in demand.
 - Sales increased from $365.6K in 2023 to $475.6K in 2024, representing approximately 30.1% growth.
 - Profit went from $308.1k to 441.6k, also bring about 34% increase
 
-
-#### Overall Sales Performance
-
-- Total quantity went from 724 in 2023 and increased to 899 in 2024. Which is 24% increase in demand.
-- Sales increased from $365.6K in 2023 to $475.6K in 2024, representing approximately 30.1% growth.
-
 #### Cost and Profit Performance
 
-- Costs increased from $57.5K to $64K, representing approximately 11% growth.
-- Profit increased by approximately 34%, going from 308.1k in 2023 to 411.6k in 2024
+- Although the costs of good increased from $57.5K to $64K, bringing about a profit increase by approximately 34%, going from 308.1k in 2023 to 411.6k in 2024
   
-  Regional Performance
+#### Regional Performance
 
-- The South consistently recorded the highest sales across both years.
 - The East experienced significant sales growth in 2024 despite being the lowest-performing region in 2023.
+- However, the South significantly recorded the highest sales across both years.
 
 #### Product Performance
 
 - The six product categories analysed were headphones, keyboards, laptops, monitors, mice, and printers.
-- Keyboards generated the highest sales in 2023, while monitors took the lead in 2024, followed by mice.
+- Keyboards generated the highest sales in 2023, while monitors took the lead in 2024, followed by mouse.
 
-Monthly Sales Trends
+#### Monthly Sales Trends
+- March was a peak sales period in 2023, while September recorded stronger sales in 2024.
+- However, May recorded relatively low sales across the two-year period.
 
--May recorded relatively low sales across the two-year period.
-
-- February was a peak sales period in 2023, while October recorded stronger sales in 2024.
-
-  # Review everything above very welll
-
-Recommendations
-- Target Low-Sales Periods: Investigate the reasons for lower sales in May and - introduce targeted promotions where appropriate. Review December's performance to determine whether additional festive campaigns are needed.
+## Recommendations
+- Target Low-Sales Periods: Investigate the reasons for lower sales in May and introduce targeted promotions where appropriate. Review December's performance to determine whether additional festive campaigns are needed.
 - Introduce Product Bundling: Pair popular products, such as monitors, with lower-performing complementary products, such as keyboards or printers, to encourage additional purchases and increase average transaction value.
 - Improve Regional Performance: Investigate the strategies contributing to the South's consistent performance and assess whether they can be adapted for lower-performing regions. Use customer feedback to understand regional needs and purchasing barriers.
 - Monitor Product Demand: Investigate the factors behind the growth in monitor sales and review lower-performing product categories to identify opportunities for improved marketing and inventory planning.
